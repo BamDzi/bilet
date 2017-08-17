@@ -1,5 +1,11 @@
 *.class
 
+data/
+target/
+#!.mvn/wrapper/maven-wrapper.jar
+.project
+.settings
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
